@@ -1,0 +1,170 @@
+{
+  "Description": "Police Department IP Address Ranges",
+  "Departments": [
+    {
+      "Name": "Royal Canadian Mounted Police",
+      "City": "Ottawa",
+      "StateProv": "ON",
+      "Country": "CA",
+      "IP4": [["142.72.0.0","142.72.255.255"],["142.235.0.0","142.235.255.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/142.72.0.0-142.72.255.255","http://www.tcpiputils.com/browse/ip-address/142.235.0.0-142.235.255.255"]
+    },
+    {
+      "Name": "Toronto Police Service",
+      "City": "Toronto",
+      "StateProv": "ON",
+      "Country": "CA",
+      "IP4": [["148.117.0.0","148.117.255.255"],["159.6.0.0","159.6.255.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/148.117.0.0-148.117.255.255","http://www.tcpiputils.com/browse/ip-address/159.6.0.0-159.6.255.255"]
+    },
+    {
+      "Name": "Western Australia Police",
+      "City": "East Perth",
+      "StateProv": "WA",
+      "Country": "AU",
+      "IP4": [["165.187.0.0","165.187.255.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/165.187.0.0-165.187.255.255"]
+    },
+    {
+      "Name": "Albania State Police",
+      "City": "Tirane",
+      "Country": "AU",
+      "IP4": [["185.71.180.0","185.71.183.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/185.71.180.0-185.71.183.255"]
+    },
+    {
+      "Name": "Rhode Island State Police",
+      "City": "North Scituate",
+      "StateProv": "RI",
+      "Country": "US",
+      "IP4": [["192.40.244.0","192.40.244.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/192.40.244.0-192.40.244.255"]
+    },
+    {
+      "Name": "Niles Police Department",
+      "City": "Niles",
+      "StateProv": "IL",
+      "Country": "US",
+      "IP4": [["192.190.244.0","192.190.244.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/192.190.244.0-192.190.244.255"]
+    },
+    {
+      "Name": "Merseyside Police",
+      "City": "Liverpool",
+      "Country": "UK",
+      "IP4": [["194.36.32.0","194.36.47.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/194.36.32.0-194.36.47.255"]
+    },
+    {
+      "Name": "North Yorkshire Police",
+      "City": "Northallerton",
+      "Country": "UK",
+      "IP4": [["194.62.128.0","194.62.143.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/194.62.128.0-194.62.143.255"]
+    },
+    {
+      "Name": "Hialeah Police Department",
+      "City": "Hialeah",
+      "StateProv": "FL",
+      "Country": "US",
+      "IP4": [["198.90.16.0","198.90.19.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/198.90.16.0-198.90.19.255"]
+    },
+    {
+      "Name": "El Cajon Police Department",
+      "City": "El Cajon",
+      "StateProv": "CA",
+      "Country": "US",
+      "IP4": [["198.22.177.0","198.22.177.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/198.22.177.0-198.22.177.255"]
+    },
+    {
+      "Name": "Los Gatos Police Department",
+      "City": "Los Gatos",
+      "StateProv": "CA",
+      "Country": "US",
+      "IP4": [["198.203.186.0","198.203.187.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/198.203.186.0-198.203.187.255"]
+    },
+    {
+      "Name": "Lansing Police Department",
+      "City": "Lansing",
+      "StateProv": "MI",
+      "Country": "US",
+      "IP4": [["198.204.124.0","198.204.124.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/198.204.124.0-198.204.124.255"]
+    },
+    {
+      "Name": "Cook County Sheriffs Police",
+      "City": "Maywood",
+      "StateProv": "IL",
+      "Country": "US",
+      "IP4": [["198.185.211.0","198.185.211.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/198.185.211.0-198.185.211.255"]
+    },
+    {
+      "Name": "United States Capitol Police",
+      "City": "Washington",
+      "StateProv": "DC",
+      "Country": "US",
+      "IP4": [["192.42.110.0","192.42.110.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/192.42.110.0-192.42.110.255"]
+    },
+    {
+      "Name": "Virginia State Police",
+      "City": "Richmond",
+      "StateProv": "VA",
+      "Country": "US",
+      "IP4": [["199.101.220.0","199.101.223.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/199.101.220.0-199.101.223.255"]
+    },
+    {
+      "Name": "Las Vegas Metropolitan Police Department",
+      "City": "Las Vegas",
+      "StateProv": "NV",
+      "Country": "US",
+      "IP4": [["199.164.141.0","199.164.142.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/199.164.141.0-199.164.141.255"]
+    },
+    {
+      "Name": "Albany, New York Police Department",
+      "City": "Albany",
+      "StateProv": "NY",
+      "Country": "US",
+      "IP4": [["199.254.244.0","199.254.244.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/199.254.244.0-199.254.244.255"]
+    },
+    {
+      "Name": "Town of Colonie Police Department",
+      "City": "Latham",
+      "StateProv": "NY",
+      "Country": "US",
+      "IP4": [["199.254.253.0","199.254.253.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/199.254.253.0-199.254.253.255"]
+    },
+    {
+      "Name": "Australian Federal Police",
+      "City": "Melbourne",
+      "StateProv": "Victoria",
+      "Country": "AU",
+      "IP4": [["202.12.119.0","202.12.119.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/202.12.119.0-202.12.119.255"]
+    },
+    {
+      "Name": "Victoria Police",
+      "City": "Melbourne",
+      "StateProv": "Victoria",
+      "Country": "AU",
+      "IP4": [["203.16.216.0","203.16.223.255"],["203.25.230.0","203.25.231.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/203.16.216.0-203.16.223.255","http://www.tcpiputils.com/browse/ip-address/203.25.230.0-203.25.231.255"]
+    },
+    {
+      "Name": "New York City Police Department",
+      "City": "New York",
+      "StateProv": "NY",
+      "Country": "US",
+      "IP4": [["206.212.184.0","206.212.191.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/206.212.184.0-206.212.191.255"]
+    }
+  ]
+}
