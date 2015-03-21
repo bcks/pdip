@@ -2,6 +2,13 @@
   "Description": "Police Department IP Address Ranges",
   "Departments": [
     {
+      "Name": "Bangkok Province Police",
+      "StateProv": "Bangkok",
+      "Country": "TH",
+      "IP4": [["118.174.44.152","118.174.44.155"]],
+      "Sources": ["http://wq.apnic.net/apnic-bin/whois.pl"]
+    },
+    {
       "Name": "Royal Canadian Mounted Police",
       "City": "Ottawa",
       "StateProv": "ON",
@@ -165,6 +172,30 @@
       "Country": "US",
       "IP4": [["206.212.184.0","206.212.191.255"]],
       "Sources": ["http://www.tcpiputils.com/browse/ip-address/206.212.184.0-206.212.191.255"]
+    },
+    {
+      "Name": "Baoding Police Office",
+      "City": "Baoding",
+      "StateProv": "Hebei",
+      "Country": "CN",
+      "IP4": [["218.12.95.192","218.12.95.199"]],
+      "Sources": ["http://wq.apnic.net/apnic-bin/whois.pl"]
+    },
+    {
+      "Name": "Hangzhou Police Bureau",
+      "City": "Hangzhou",
+      "StateProv": "Zhejiang",
+      "Country": "CN",
+      "IP4": [["218.108.16.176","218.108.16.183"]],
+      "Sources": ["http://wq.apnic.net/apnic-bin/whois.pl"]
+    },
+    {
+      "Name": "Wuhan City Police",
+      "City": "Wuhan City",
+      "StateProv": "Hubei",
+      "Country": "CN",
+      "IP4": [["220.249.99.96","220.249.99.111"]],
+      "Sources": ["http://wq.apnic.net/apnic-bin/whois.pl"]
     }
   ]
 }
