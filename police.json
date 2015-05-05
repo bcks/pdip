@@ -2,6 +2,14 @@
   "Description": "Police Department IP Address Ranges",
   "Departments": [
     {
+      "Name": "Oakland Police Department",
+      "City": "Oakland",
+      "StateProv": "California",
+      "Country": "US",
+      "IP4": [["96.57.144.128","96.57.144.135"]],
+      "Sources": ["http://whois.arin.net/rest/customer/C02905561"]
+    },
+    {
       "Name": "Bangkok Province Police",
       "StateProv": "Bangkok",
       "Country": "TH",
@@ -23,6 +31,14 @@
       "Country": "CA",
       "IP4": [["148.117.0.0","148.117.255.255"],["159.6.0.0","159.6.255.255"]],
       "Sources": ["http://www.tcpiputils.com/browse/ip-address/148.117.0.0-148.117.255.255","http://www.tcpiputils.com/browse/ip-address/159.6.0.0-159.6.255.255"]
+    },
+    {
+      "Name": "Baltimore City Police",
+      "City": "Baltimore",
+      "StateProv": "MD",
+      "Country": "US",
+      "IP4": [["151.196.145.0","151.196.145.255"]],
+      "Sources": ["http://www.tcpiputils.com/browse/ip-address/151.196.145.0-151.196.145.255"]
     },
     {
       "Name": "Western Australia Police",
